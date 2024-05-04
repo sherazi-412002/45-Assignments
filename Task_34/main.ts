@@ -1,4 +1,4 @@
-let pizzas :string[] = ["Peperoni", "Cuban", "BBQ Chicken"];
+let pizzas :string[] = ["Pepperoni", "Hawaiian", "Quattro Formaggio", "Capricciosa"];
 
 // 
 for(let pizza of pizzas){
